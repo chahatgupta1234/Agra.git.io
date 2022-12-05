@@ -133,3 +133,14 @@ h1{
     color: blue;
     background-color: red;
 }
+.foot
+{
+    padding: 10px;
+    margin: 5rem 0 0 2rem;
+    text-align: center;
+    font-weight: 10px;
+    font-size: 1.2rem;
+}
+.foot p{
+    margin-top: 30px;
+}
