@@ -1,0 +1,43 @@
+.taj{
+    padding:0px 65px;
+  }
+
+ h2{
+    text-align: center;
+ 
+  }
+
+  .section{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    max-width: 1300px;
+    margin: auto;
+    padding-bottom: 10px;
+    padding-top: 180px;
+    font-size: larger;
+    /* color:wheat; */
+    color: white;
+  }
+
+.visited ol{
+  margin: auto;
+  color:white;
+  padding:18% 10%;
+  font-size 1.3em;
+  line-height:3.3em;
+  weight:25%;
+}
+
+.visited ol li a:hover{
+    color: yellow;
+    background-color: red;
+}
+
+
+.visited ol li {
+  margin: auto;
+  font-weight: 600;
+  font-size: 1.3rem;
+}
